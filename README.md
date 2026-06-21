@@ -1,2 +1,12 @@
 # mzone-2026worldcup-journal
-HTML page archive and documentation
+
+这里集中保存独立页面文件，便于按仓库查看发布记录。
+
+## 文件组成
+
+- `.html` 文件为独立页面
+- `README.md` 为仓库基础说明
+
+## 页面说明
+
+每个 HTML 文件都是独立页面，具体内容请打开对应文件查看。
